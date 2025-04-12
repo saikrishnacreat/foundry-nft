@@ -49,3 +49,8 @@ endif
 
 deployMood:
 	@forge script script/DeployMoodNft.s.sol:DeployMoodNft $(NETWORK_ARGS)
+
+
+
+# script for minting the moodNft
+# script for flipping the moodNft
